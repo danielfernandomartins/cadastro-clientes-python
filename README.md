@@ -1,45 +1,46 @@
-# Cadastro de Clientes em Python
+# 👥 Cadastro de Clientes em Python
 
-Sistema simples de cadastro de clientes desenvolvido em Python como parte do meu processo de formação em desenvolvimento backend.
+Aplicação de terminal para cadastro e consulta de clientes, criada para praticar fundamentos de Python em um cenário simples de relacionamento e organização de dados.
 
-## Funcionalidades
+## Contexto
+
+O projeto usa um problema comum de negócio — **cadastro de clientes** — para demonstrar como informações podem ser estruturadas e manipuladas por software.
+
+## Funcionalidades atuais
 
 - Cadastro de clientes
 - Armazenamento temporário em memória
-- Listagem de clientes cadastrados
-- Menu interativo no terminal
+- Listagem de registros
+- Menu interativo
 
-## Conceitos aplicados
+## Competências demonstradas
 
-- Variáveis
-- Entrada e saída de dados
-- Listas
-- Dicionários
-- Funções
-- Estruturas condicionais
-- Loops
+- Estruturação de dados com listas e dicionários
+- Uso de funções
+- Controle de fluxo
+- Entrada e validação básica de informações
+- Organização de regras simples de cadastro
 
-## Tecnologias utilizadas
+## Tecnologias
 
-- Python
-- Google Colab
-- GitHub
+**Python** • Terminal • GitHub
+
+## Limitações atuais
+
+Os dados são mantidos apenas durante a execução. O projeto ainda não possui persistência, autenticação ou API.
 
 ## Próximas evoluções
 
-- Busca de clientes
-- Edição de cadastro
-- Exclusão de clientes
 - Validação de dados
-- Persistência com banco de dados
+- Busca, edição e exclusão
+- Persistência em PostgreSQL
 - API REST com FastAPI
-- PostgreSQL
 - Testes automatizados
 
-## Objetivo do projeto
+## Relação com minha experiência
 
-Aplicar conceitos fundamentais de Python em um problema de negócio simples, evoluindo progressivamente para uma aplicação backend mais completa.
+Escolhi cadastro de clientes por ser um domínio próximo à minha trajetória profissional em **relacionamento, gestão de carteira e serviços financeiros**.
 
 ## Autor
 
-Daniel Fernando Martins
+**Daniel Fernando Martins**
